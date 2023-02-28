@@ -1,6 +1,6 @@
 # Énoncé 1
 ## Tester si une date est valide
-
+```
 FONCTION estBissextile(var annee)
 DÉBUT
 
